@@ -8,6 +8,7 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [Data Zoom Amazônia – Códigos e dados](https://datazoom.com.br/amazonia/pt/codigos-e-dados/)  
 
 ### Datasets
+- [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante)
 - [Brasil.io](https://brasil.io/home/)  
 - [Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
 - [UCSD – Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)  
