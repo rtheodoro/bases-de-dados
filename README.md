@@ -2,7 +2,7 @@
 
 Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áreas.
 
-### Ambiente
+### Ambiental
 - [BDiAweb](https://bdiaweb.ibge.gov.br/#/home)
 - [ibge.gov](https://www.ibge.gov.br/geociencias/informacoes-ambientais/geologia/23382-banco-de-informacoes-ambientais.html)
 - [Data Zoom Amazônia – Códigos e dados](https://datazoom.com.br/amazonia/pt/codigos-e-dados/)  
