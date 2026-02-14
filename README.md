@@ -84,7 +84,8 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [Unsplash Developers](https://unsplash.com/developers)  
 - [Spotify for Developers](https://developer.spotify.com/)  
 - [Disney API](https://disneyapi.dev/)  
-- [API Vault](https://apivault.dev/)  
+- [API Vault](https://apivault.dev/)
+- [Carnaval](https://icarobernardes.github.io/carnaval/)
 
 ### Receita Federal
 - [qsacnpj](https://github.com/georgevbsantiago/qsacnpj)  
