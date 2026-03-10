@@ -13,7 +13,7 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [Base dos Dados - Bases de diversas áreas](https://basedosdados.org/)
 - [Brasil.io](https://brasil.io/home/)  
 - [Gov.br - Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
-- [Gov.b](https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos)
+- [Gov.br](https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos)
 - [UCSD – Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)  
 - [Kaggle](https://www.kaggle.com/)  
 - [UN SDG Data Commons](https://unstats.un.org/UNSDWebsite/undatacommons/sdgs/)  
