@@ -98,6 +98,6 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [SICONFI – Atendimento hospitalar](https://siconfi-atendimento-hospitalar.tesouro.gov.br/)  
 
 ### Trabalho
-- [RAIS](ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/)  
+- [RAIS](https://ftp.mtps.gov.br/pdet/microdados/RAIS/)  
 - [CAGED](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/novo-caged-2024/junho)  
 - [rgriva – resources](https://rgriva.github.io/resources)
