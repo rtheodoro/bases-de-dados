@@ -10,15 +10,15 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 
 ### Datasets
 - [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante, vem!)
+- [Base dos Dados - Bases de diversas áreas](https://basedosdados.org/)
 - [Brasil.io](https://brasil.io/home/)  
 - [Gov.br - Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
+- [Gov.b](https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos)
 - [UCSD – Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)  
 - [Kaggle](https://www.kaggle.com/)  
 - [UN SDG Data Commons](https://unstats.un.org/UNSDWebsite/undatacommons/sdgs/)  
-- [Base dos Dados - Bases de diversas áreas](https://basedosdados.org/)
 - [Pythonic - Bases de dados abertas](https://pythonic.cafe/#bases-dados-abertas)  
-- [gov](https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos)
-- [RSpatialData](https://rspatialdata.github.io/)
+
 
 ### Economia e Desenvolvimento
 - [FIRJAN – IFDM](https://firjan.com.br/ifdm/downloads/)  
@@ -49,6 +49,7 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [Prefeitura de SP – Fazenda](https://www.prefeitura.sp.gov.br/cidade/secretarias/fazenda/acesso_a_informacao/index.php?p=31501)  
 
 ### GeoEspacial
+- [RSpatialData](https://rspatialdata.github.io/)
 - [Centro de Estudos da Metrópole (USP)](http://centrodametropole.fflch.usp.br/pt-br)  
 - [SEADE](http://portalgeo.seade.gov.br/download-de-dados/)  
 - [AidData)](https://geo.aiddata.org/#!/)  
@@ -97,7 +98,6 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [SICONFI – Atendimento hospitalar](https://siconfi-atendimento-hospitalar.tesouro.gov.br/)  
 
 ### Trabalho
-
 - [RAIS](ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/)  
 - [CAGED](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/novo-caged-2024/junho)  
 - [rgriva – resources](https://rgriva.github.io/resources)
