@@ -9,17 +9,16 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [Queimadas - Inpe](https://terrabrasilis.dpi.inpe.br/queimadas/portal/)
 
 ### Datasets
-- [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante)
+- [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante, vem!)
 - [Brasil.io](https://brasil.io/home/)  
-- [Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
+- [Gov.br - Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
 - [UCSD – Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)  
 - [Kaggle](https://www.kaggle.com/)  
 - [UN SDG Data Commons](https://unstats.un.org/UNSDWebsite/undatacommons/sdgs/)  
-- [Base dos Dados - Diversas bases](https://basedosdados.org/)
-- [Bases de dados abertas](https://pythonic.cafe/#bases-dados-abertas)  
+- [Base dos Dados - Bases de diversas áreas](https://basedosdados.org/)
+- [Pythonic - Bases de dados abertas](https://pythonic.cafe/#bases-dados-abertas)  
 - [gov](https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos)
 - [RSpatialData](https://rspatialdata.github.io/)
-- [Diversas bases brasileiras em R](https://github.com/ipeaGIT/brverse)  
 
 ### Economia e Desenvolvimento
 - [FIRJAN – IFDM](https://firjan.com.br/ifdm/downloads/)  
