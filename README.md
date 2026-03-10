@@ -5,7 +5,8 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 ### Ambiental
 - [BDiAweb](https://bdiaweb.ibge.gov.br/#/home)
 - [ibge.gov](https://www.ibge.gov.br/geociencias/informacoes-ambientais/geologia/23382-banco-de-informacoes-ambientais.html)
-- [Data Zoom Amazônia – Códigos e dados](https://datazoom.com.br/amazonia/pt/codigos-e-dados/)  
+- [Data Zoom Amazônia – Códigos e dados](https://datazoom.com.br/amazonia/pt/codigos-e-dados/)
+- [Queimadas - Inpe](https://terrabrasilis.dpi.inpe.br/queimadas/portal/)
 
 ### Datasets
 - [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante)
