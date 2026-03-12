@@ -47,7 +47,7 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [BNDES – Consulta a operações](https://www.bndes.gov.br/wps/portal/site/home/transparencia/consulta-operacoes-bndes)  
 - [DataSebrae](https://datasebrae.com.br/)  
 - [FEBRABAN](https://portal.febraban.org.br/paginas/21/pt-br/#)
-- [Prefeitura de SP – Fazenda](https://www.prefeitura.sp.gov.br/cidade/secretarias/fazenda/acesso_a_informacao/index.php?p=31501)  
+- [Prefeitura de SP – Transações Imobiliárias](https://www.prefeitura.sp.gov.br/cidade/secretarias/fazenda/acesso_a_informacao/index.php?p=31501)  
 
 ### GeoEspacial
 - [RSpatialData](https://rspatialdata.github.io/)
