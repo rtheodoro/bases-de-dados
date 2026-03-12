@@ -10,7 +10,7 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [Terracolect - Inpe](https://data.inpe.br/bdc/terracollect/home)
 
 ### Datasets
-- [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante, vem!)
+- [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante, veja!)
 - [Base dos Dados - Bases de diversas áreas](https://basedosdados.org/)
 - [Brasil.io](https://brasil.io/home/)  
 - [Gov.br - Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
