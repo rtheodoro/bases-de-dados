@@ -10,16 +10,14 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [Inpe - Terracolect](https://data.inpe.br/bdc/terracollect/home)
 
 ### Datasets
-- [brverse - diversas bases de dados em R](https://github.com/ipeaGIT/brverse) (Muito interessante, veja!)
+- [brverse - diversas bases de dados brasileiros em R](https://github.com/ipeaGIT/brverse) (Muito interessante, veja!)
 - [Base dos Dados - Bases de diversas áreas](https://basedosdados.org/)
 - [Brasil.io](https://brasil.io/home/)  
-- [Gov.br - Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
 - [Gov.br](https://www.gov.br/governodigital/pt-br/dados-abertos/portal-brasileiro-de-dados-abertos)
 - [UCSD – Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)  
-- [Kaggle](https://www.kaggle.com/)  
 - [UN SDG Data Commons](https://unstats.un.org/UNSDWebsite/undatacommons/sdgs/)  
-- [Pythonic - Bases de dados abertas](https://pythonic.cafe/#bases-dados-abertas)  
-
+- [Pythonic - Bases de dados abertas](https://pythonic.cafe/#bases-dados-abertas)
+- [Kaggle](https://www.kaggle.com/) (tem que saber filtrar quais são boas e confiáveis)
 
 ### Economia e Desenvolvimento
 - [FIRJAN – IFDM](https://firjan.com.br/ifdm/downloads/)  
@@ -27,7 +25,8 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 
 ### Educação
 - [INEP – Sinopses estatísticas](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/sinopses-estatisticas)  
-- [INEP – Indicadores educacionais](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais)  
+- [INEP – Indicadores educacionais](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais)
+- [USP - transparência](https://uspdigital.usp.br/portaltransparencia/)
 
 ### Eleições
 - [TSE – Estatísticas eleitorais](https://www.tse.jus.br/eleicoes/estatisticas)
@@ -96,7 +95,8 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 ### Saúde
 - [DATASUS – TABNET](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/)  
 - [IEPS Data](https://iepsdata.org.br/)  
-- [SICONFI – Atendimento hospitalar](https://siconfi-atendimento-hospitalar.tesouro.gov.br/)  
+- [SICONFI – Atendimento hospitalar](https://siconfi-atendimento-hospitalar.tesouro.gov.br/)
+- [Unicef - diversas bases](https://data.unicef.org/resources/resource-type/datasets/)
 
 ### Trabalho
 - [RAIS](https://ftp.mtps.gov.br/pdet/microdados/RAIS/)  
