@@ -52,7 +52,7 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [RSpatialData](https://rspatialdata.github.io/)
 - [Centro de Estudos da Metrópole (USP)](http://centrodametropole.fflch.usp.br/pt-br)  
 - [SEADE](http://portalgeo.seade.gov.br/download-de-dados/)  
-- [AidData)](https://geo.aiddata.org/#!/)  
+- [AidData](https://geo.aiddata.org/#!/)  
 - [Google Earth Engine](https://earthengine.google.com/)  
 - [Dryad](https://datadryad.org/stash)  
 - [Zenodo](https://zenodo.org/)  
