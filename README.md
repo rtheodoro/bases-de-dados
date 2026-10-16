@@ -79,7 +79,8 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [CNJ – DataJud](https://www.cnj.jus.br/sistemas/datajud/)
 - [Kaggle – TSE analytics](https://www.kaggle.com/datasets/teocalvo/tse-analytics)
 - [senatebR](https://github.com/vsntos/senatebR)  
-- [TSE – Dados abertos](https://dadosabertos.tse.jus.br/)  
+- [TSE – Dados abertos](https://dadosabertos.tse.jus.br/)
+- [Leis Federais e Estaduais](https://github.com/ctresb/leis)
 
 ### Miscelânea (APIs)
 - [API Vault](https://apivault.dev/)
