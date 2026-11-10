@@ -51,7 +51,9 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 
 ### GeoEspacial
 - [AidData](https://geo.aiddata.org/#!/)
+- [ANA: bacias, hidrografia e estações de monitoramento](https://www.snirh.gov.br/hidroweb/apresentacao)
 - [Centro de Estudos da Metrópole (USP)](http://centrodametropole.fflch.usp.br/pt-br)
+- [Copernicus (Sentinel-2): 10 m de resolução](https://dataspace.copernicus.eu/)
 - [Dryad](https://datadryad.org/stash)
 - [Inde - Catálogo de Metadados Geoespaciais](https://inde.gov.br/#)
 - [INPE – Data](https://data.inpe.br/)  
@@ -64,6 +66,7 @@ Aqui eu reuno alguns sites que são fontes para encontrar dados de diversas áre
 - [SITS book](https://e-sensing.github.io/sitsbook/)
 - [rspatial.org](https://rspatial.org/)
 - [RSpatialData](https://rspatialdata.github.io/)
+- [USGS EarthExplorer (Landsat)](https://earthexplorer.usgs.gov/)
 - [Zenodo](https://zenodo.org/)
 
 ### IBGE
